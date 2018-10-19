@@ -1,5 +1,5 @@
 jenkins_joblists:
   servers:
-    url:
-    version:
-    lists:
+    url: https://github.com/TomonoriMatsumura/jenkinsfiles_server-configs
+    version: master
+    lists: ansible/common/excute/playbook
