@@ -2,4 +2,6 @@ jenkins_joblists:
   servers:
     url: https://github.com/TomonoriMatsumura/jenkinsfiles_server-configs
     version: master
-    lists: ansible
+    lists:
+      - ansible
+      - node1/jenkins
