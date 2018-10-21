@@ -1,5 +1,5 @@
 jenkins_joblists:
-  - name: servers
+  servers:
     url: https://github.com/TomonoriMatsumura/jenkinsfiles_server-configs
     version: master
     lists:
